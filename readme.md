@@ -16,8 +16,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/satyambjpai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="satyambjpai" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/satyam bajpai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="satyam bajpai" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/satyam bajpai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="satyam bajpai" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/satyam-bajpai-49aa05204" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="satyam bajpai" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/18020659/satyam-bajpai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="satyam bajpai" height="30" width="40" /></a>
 <a href="https://instagram.com/igsatyam" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="igsatyam" height="30" width="40" /></a>
 <a href="https://auth.geeksforgeeks.org/user/satyam73" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="satyam73" height="30" width="40" /></a>
 </p>
