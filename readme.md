@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Satyam Bajpai</h1>
 <h3 align="center">A passionate web developer from India.</h3>
 
-<p align="left"> <a href="https://twitter.com/satyamtweetss" target="blank"><img src="https://img.shields.io/twitter/follow/satyambjpai?logo=twitter&style=for-the-badge" alt="satyambjpai" /></a> </p>
+<p align="left"> <a href="https://twitter.com/satyamtweetss" target="blank"><img src="https://img.shields.io/twitter/follow/satyamtweetss?logo=twitter&style=for-the-badge" alt="satyamtweetss" /></a> </p>
 
 - 🔭 I’m currently working on my **skills.**
 
