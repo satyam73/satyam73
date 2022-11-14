@@ -30,3 +30,7 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=satyam73&show_icons=true&locale=en" alt="satyam73" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=satyam73&" alt="satyam73" /></p>
+
+[![@satyam73's Holopin board](https://holopin.me/satyam73)](https://holopin.io/@satyam73)
+
+
