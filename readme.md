@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate to **open source community.**
 
-- 👨‍💻 All of my projects are available at my [portfolio website](https://satyambajpai.herokuapp.com/)
+- 👨‍💻 All of my projects are available at my [portfolio website](https://satyambajpai.onrender.com/)
 
 - 📫 Reach me at **bajpai1973satyam@gmail.com**
 
