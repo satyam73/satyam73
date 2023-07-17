@@ -3,6 +3,8 @@
 
 <p align="left"> <a href="https://twitter.com/satyamtweetss" target="blank"><img src="https://img.shields.io/twitter/follow/satyamtweetss?logo=twitter&style=for-the-badge" alt="satyamtweetss" /></a> </p>
 
+![](https://komarev.com/ghpvc/?username=satyam73&color=brightgreen)
+
 - 🔭 I’m currently working on my **skills.**
 
 - 🌱 I’m currently learning about **backend, API's and data.**
